@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "993885389300",
+    "project_id": "attandance-system-9d715",
+    "storage_bucket": "attandance-system-9d715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993885389300:android:e517c6e24e5a04b41c39a1",
+        "android_client_info": {
+          "package_name": "com.example.attendance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWzz4Qu-5JXz7CMVBdUvKz7NSNJwSVdoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993885389300:android:81e6e311621832f01c39a1",
+        "android_client_info": {
+          "package_name": "com.example.vimigo_attandace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWzz4Qu-5JXz7CMVBdUvKz7NSNJwSVdoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
